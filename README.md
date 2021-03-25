@@ -3,4 +3,4 @@ This is a simple repository to expose a documentation reminder about Drupal. All
 That's all :)
 
 # Author:
-Sebastien Deschamps <sdx006.com@gmail.com>
+Sebastien Deschamps <sdx007.com@gmail.com>
