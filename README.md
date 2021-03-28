@@ -6,4 +6,4 @@ That's all :)
 Sebastien Deschamps <sdx007.com@gmail.com>
 
 # Index
-[Go to index](/0_index.md)
+[Go to index](/src/0_index.md)
