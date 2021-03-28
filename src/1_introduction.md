@@ -1,5 +1,5 @@
 # Drupal 7.x Introduction
-[*Go back to index*](/0_index.md)
+[*Go back to index*](/src/0_index.md)
 
 The Drupal 7.x Release is fully describe on https://doc.drupal.org/. Here is a quick introduction around it.
 
@@ -35,4 +35,4 @@ Main features on Drupal 7.x are:
 
 *@TODO: Continue chapters writting...*
 
-[*Go back to index*](/0_index.md)
+[*Go back to index*](/src/0_index.md)
