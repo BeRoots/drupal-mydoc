@@ -1,4 +1,5 @@
 # General Documentation Reminders
+[*Go back to index*](/0_index.md)
 
 ## Documentation References and usefull links
 - [Drupal API Documentation Homepage](https://api.drupal.org/api/drupal/7.x)
@@ -27,3 +28,5 @@ Bootstrap phases are:
 # Quick Get Started
 ## Usefull Third-party Modules
 - 
+
+[*Go back to index*](/0_index.md)
