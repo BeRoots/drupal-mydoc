@@ -2,6 +2,8 @@
 
 ## Documentation References and usefull links
 - [Drupal API Documentation Homepage](https://api.drupal.org/api/drupal/7.x)
+- [Drupal API Documentation Project Homepage](https://api.drupal.org/api/projects)
+- [Drupal API Developers Examples](https://api.drupal.org/api/examples/7.x-1.x)
 - [Drupal General Documentation Homepage](https://drupal.org/docs/7)
 - [Drupalgardens Homepage](https://drupalgardens.com)
 - [Acquia Website Hompage](https://acquia.com)
@@ -23,3 +25,5 @@ Bootstrap phases are:
 8. DRUPAL_BOOTSTRAP_FULL (drupal is fully loaded ; validate and fix input data)
 
 # Quick Get Started
+## Usefull Third-party Modules
+- 
